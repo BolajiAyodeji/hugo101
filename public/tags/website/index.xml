@@ -13,20 +13,20 @@
     
     <item>
       <title>How to convert GitHub Markdown files to a simple website</title>
-      <link>localhost:1313/posts/easy-markdown-to-github-pages/</link>
+      <link>localhost:1313/post/easy-markdown-to-github-pages/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
-      <guid>localhost:1313/posts/easy-markdown-to-github-pages/</guid>
+      <guid>localhost:1313/post/easy-markdown-to-github-pages/</guid>
       <description>Easy Markdown to GitHub Pages Introduction This little guide demonstrates how to turn any Github repository with a bunch of Markdown files into a simple website using Github Pages and Jekyll.
  You don&amp;rsquo;t need to use the command line or anything other than your browser. It doesn&amp;rsquo;t require any knowledge in Jekyll. It&amp;rsquo;s completely compatible with any bunch of markdown files you already have in any existing repository without any modification to those files.</description>
     </item>
     
     <item>
       <title>How to convert GitHub Markdown files to a simple website</title>
-      <link>localhost:1313/posts/my-first-post/</link>
+      <link>localhost:1313/post/my-first-post/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
-      <guid>localhost:1313/posts/my-first-post/</guid>
+      <guid>localhost:1313/post/my-first-post/</guid>
       <description>Easy Markdown to GitHub Pages Introduction This little guide demonstrates how to turn any Github repository with a bunch of Markdown files into a simple website using Github Pages and Jekyll.
  You don&amp;rsquo;t need to use the command line or anything other than your browser. It doesn&amp;rsquo;t require any knowledge in Jekyll. It&amp;rsquo;s completely compatible with any bunch of markdown files you already have in any existing repository without any modification to those files.</description>
     </item>

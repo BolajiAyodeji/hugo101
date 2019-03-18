@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/post/easy-markdown-to-github-pages/</loc>
+    <loc>localhost:1313/posts/easy-markdown-to-github-pages/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/post/my-first-post/</loc>
+    <loc>localhost:1313/posts/my-first-post/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
   </url>
   
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>localhost:1313/post/</loc>
+    <loc>localhost:1313/posts/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
