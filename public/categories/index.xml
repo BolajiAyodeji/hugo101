@@ -10,5 +10,23 @@
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Github</title>
+      <link>/categories/github/</link>
+      <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
+      
+      <guid>/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>/categories/markdown/</link>
+      <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
+      
+      <guid>/categories/markdown/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
