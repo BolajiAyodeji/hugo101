@@ -1,0 +1,3 @@
+[submodule "themes/base16"]
+    path = themes/base16
+    url = git://github.com/BolajiAyodeji/hugo101
