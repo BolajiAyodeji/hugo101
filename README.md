@@ -14,9 +14,6 @@ cd hugo101
 ```
 hugo server -D
 ```
-
-## Usage
-
 View site on 
 
 ```shell
