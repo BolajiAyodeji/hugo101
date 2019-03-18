@@ -1,4 +1,4 @@
-# Hugo101 :zap:
+# Getting Started With Hugo and Deploying to Netlify :zap:
 Starter files for Hugo101 article. Read [here](https://bolajiayodeji.com/dt/getting-started-with-hugo-and-deploying-to-netlify/)
 
 ## Installation
