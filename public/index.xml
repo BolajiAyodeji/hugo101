@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Hugo 101</title>
     <link>/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Hugo 101</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 07:13:19 +0100</lastBuildDate>
@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <title>How to convert GitHub Markdown files to a simple website</title>
+      <link>/posts/easy-markdown-to-github-pages/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
-      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, voluptatibus accusamus commodi dicta in quisquam nesciunt, reiciendis qui officia dolorum magni, optio consequatur exercitationem alias aut deleniti unde. Esse, labore!</description>
+      <guid>/posts/easy-markdown-to-github-pages/</guid>
+      <description>Easy Markdown to GitHub Pages Introduction This little guide demonstrates how to turn any Github repository with a bunch of Markdown files into a simple website using Github Pages and Jekyll.
+ You don&amp;rsquo;t need to use the command line or anything other than your browser. It doesn&amp;rsquo;t require any knowledge in Jekyll. It&amp;rsquo;s completely compatible with any bunch of markdown files you already have in any existing repository without any modification to those files.</description>
     </item>
     
   </channel>
