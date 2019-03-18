@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo 101</title>
-    <link>/tags/</link>
+    <link>https://hugo101.netlify.com/tags/</link>
     <description>Recent content in Tags on Hugo 101</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 07:13:19 +0100</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hugo101.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>/tags/first-post/</link>
+      <link>https://hugo101.netlify.com/tags/first-post/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
-      <guid>/tags/first-post/</guid>
+      <guid>https://hugo101.netlify.com/tags/first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>/tags/github/</link>
+      <link>https://hugo101.netlify.com/tags/github/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
-      <guid>/tags/github/</guid>
+      <guid>https://hugo101.netlify.com/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>/tags/markdown/</link>
+      <link>https://hugo101.netlify.com/tags/markdown/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
-      <guid>/tags/markdown/</guid>
+      <guid>https://hugo101.netlify.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website</title>
-      <link>/tags/website/</link>
+      <link>https://hugo101.netlify.com/tags/website/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
-      <guid>/tags/website/</guid>
+      <guid>https://hugo101.netlify.com/tags/website/</guid>
       <description></description>
     </item>
     
