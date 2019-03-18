@@ -3,64 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/easy-markdown-to-github-pages/</loc>
+    <loc>localhost:1313/posts/easy-markdown-to-github-pages/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>localhost:1313/posts/my-first-post/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>localhost:1313/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/github/</loc>
-    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/github/</loc>
+    <loc>localhost:1313/tags/github/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>localhost:1313/categories/github/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/markdown/</loc>
+    <loc>localhost:1313/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/markdown/</loc>
+    <loc>localhost:1313/tags/markdown/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>localhost:1313/categories/markdown/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>localhost:1313/posts/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/website/</loc>
+    <loc>localhost:1313/tags/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/website/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
