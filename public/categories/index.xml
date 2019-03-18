@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Hugo 101</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2019 07:13:19 +0100</lastBuildDate>
     
 	<atom:link href="localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Base16</title>
+      <link>localhost:1313/categories/base16/</link>
+      <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
+      
+      <guid>localhost:1313/categories/base16/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Github</title>
@@ -16,6 +26,15 @@
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
       <guid>localhost:1313/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>localhost:1313/categories/hugo/</link>
+      <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
+      
+      <guid>localhost:1313/categories/hugo/</guid>
       <description></description>
     </item>
     

@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>First Post</title>
+      <link>localhost:1313/tags/first-post/</link>
+      <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
+      
+      <guid>localhost:1313/tags/first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Github</title>
       <link>localhost:1313/tags/github/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>

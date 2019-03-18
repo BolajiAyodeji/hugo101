@@ -2,8 +2,8 @@
 title: "How to convert GitHub Markdown files to a simple website"
 date: 2019-03-18T07:13:19+01:00
 draft: false
-type: "post"
 tags: ["markdown", "GitHub", "website"]
+categories: ["github", "markdown"]
 ---
 
 ### Easy Markdown to GitHub Pages
