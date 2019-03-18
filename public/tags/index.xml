@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo 101</title>
-    <link>localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Hugo 101</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 07:13:19 +0100</lastBuildDate>
     
-	<atom:link href="localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>localhost:1313/tags/first-post/</link>
+      <link>/tags/first-post/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
-      <guid>localhost:1313/tags/first-post/</guid>
+      <guid>/tags/first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>localhost:1313/tags/github/</link>
+      <link>/tags/github/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
-      <guid>localhost:1313/tags/github/</guid>
+      <guid>/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>localhost:1313/tags/markdown/</link>
+      <link>/tags/markdown/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
-      <guid>localhost:1313/tags/markdown/</guid>
+      <guid>/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website</title>
-      <link>localhost:1313/tags/website/</link>
+      <link>/tags/website/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
-      <guid>localhost:1313/tags/website/</guid>
+      <guid>/tags/website/</guid>
       <description></description>
     </item>
     

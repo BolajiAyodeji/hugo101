@@ -1,4 +1,4 @@
-baseURL = "localhost:1313/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Hugo 101"
 theme = "base16"

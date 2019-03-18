@@ -3,83 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/post/easy-markdown-to-github-pages/</loc>
+    <loc>/post/easy-markdown-to-github-pages/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/post/my-first-post/</loc>
+    <loc>/post/my-first-post/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/categories/base16/</loc>
-    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>/categories/base16/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/tags/first-post/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/tags/github/</loc>
+    <loc>/tags/first-post/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/categories/github/</loc>
+    <loc>/tags/github/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/categories/hugo/</loc>
+    <loc>/categories/github/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/</loc>
+    <loc>/categories/hugo/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/tags/markdown/</loc>
+    <loc>/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/categories/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/post/</loc>
+    <loc>/categories/markdown/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/tags/website/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/website/</loc>
     <lastmod>2019-03-18T07:13:19+01:00</lastmod>
     <priority>0</priority>
   </url>
