@@ -1,2 +1,2 @@
 # hugo101
-Getting started with Hugo and Deploy to Netlify :zap:
+Starter files for Hugo101 article. Read [here](https://bolajiayodeji.com/dt/getting-started-with-hugo-and-deploying-to-netlify/)
