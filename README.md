@@ -1,5 +1,5 @@
 # Getting Started With Hugo and Deploying to Netlify :zap:
-Starter files for Hugo101 article. Read [here](https://bolajiayodeji.com/dt/getting-started-with-hugo-and-deploying-to-netlify/)
+Starter files for Hugo101 article. Read [here](https://bolajiayodeji.com/getting-started-with-hugo-and-deploying-to-netlify-cjyaj1be3000hvjs1z2ipvmuw)
 
 ![](https://cdn-images-1.medium.com/max/800/1*oIEz4ooK0G4XUVViipHHjA.png)
 
